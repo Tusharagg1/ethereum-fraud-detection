@@ -1,1 +1,1 @@
-# ethereum-fraud-detection
+# Ethereum Fraud Detection
